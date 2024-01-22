@@ -1,5 +1,8 @@
 # Bandit-otw
+Bandit over the wire solutions
 
+                        -
+                        -
                         | |__   __ _ _ __   __| (_) |_ 
                         | '_ \ / _` | '_ \ / _` | | __|
                         | |_) | (_| | | | | (_| | | |_ 
